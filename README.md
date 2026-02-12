@@ -1,7 +1,7 @@
 Markdown
-# ⛏️ GET CP: Ultimate Multi-Platform Miner
+# ⛏️ GET SP: Ultimate Multi-Platform Miner
 
-**GET CP** is a powerful Telegram bot designed to automate data and media extraction from various social media platforms, including Instagram, TikTok, YouTube, Pinterest, and Threads.
+**GET SP** is a powerful Telegram bot designed to automate data and media extraction from various social media platforms, including Instagram, TikTok, YouTube, Pinterest, and Threads.
 
 ## 🚀 Features
 * **Instagram**: Download profile media dumps in ZIP format (Powered by `instaloader`).
@@ -15,10 +15,10 @@ Markdown
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/n0merc/get-sp.git](https://github.com/n0merc/get-sp.git)
-cd get-cp-miner
+cd get-sp
 2. Install Dependencies
 Bash
-pip install python-telegram-bot instaloader yt-dlp gallery-dl imageio-ffmpeg
+pip3 install python-telegram-bot instaloader yt-dlp gallery-dl imageio-ffmpeg
 3. Setup FFmpeg (Mandatory for Video Merging)
 Ensure ffmpeg is installed on your system path. On Windows, you can use:
 
