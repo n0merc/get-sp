@@ -1,0 +1,6 @@
+miner_config.json
+downloads/
+__pycache__/
+.env
+.venv/
+*.zip
